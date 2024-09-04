@@ -2,12 +2,15 @@
 
 [@jigyasa_grover](https://www.linkedin.com/in/jigyasa-grover/)
 
+![image](https://github.com/user-attachments/assets/f44e003e-6f8b-40f2-8249-03abcdff3fee)
+
 Ever wondered which *Large Language Model (LLM)* stands out not just for providing accurate responses, but also for being clear, respectful, and detail-oriented?
 
 With the ever-expanding list of LLMs, each boasting different configurations and capabilities, it is crucial to have a way to quantitatively assess their performance. The goal is to help us select the best model for building applications that prioritize precision, safety, and ethical considerations.
 
 In this notebook, we shall embark on an exciting exploration using the **LLM Comparator**, a cutting-edge tool from Google's Responsible Generative AI Toolkit. This tool is designed to offer a comprehensive evaluation of LLMs, allowing us to compare their ability to handle various tasks with clarity and thoroughness. By testing these sophisticated AI models against questions typically aimed at a 5th Grader (inspired from the American quiz game show called "*Are You Smarter than a 5th Grader?*"), we aim to uncover which models not only perform accurately but also align with high standards of communication and respect. 
 
+![image](https://github.com/user-attachments/assets/d753caab-114b-48ab-9298-e796985fefbe)
 
 ## LLM Comparator
 The [LLM Comparator](https://github.com/pair-code/llm-comparator) is an advanced interactive tool designed for in-depth evaluations of large language models (LLMs). It facilitates side-by-side comparisons of model responses, focusing on both the quality and safety of outputs. This tool offers a dual-layered approach, wherein it provides: 
